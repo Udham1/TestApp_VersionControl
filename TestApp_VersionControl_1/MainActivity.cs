@@ -30,12 +30,17 @@ namespace TestApp_VersionControl_1
 			};
 		}
 
-		public void TestClass ()
+		public void TestClass1 ()
 		{
 			Console.WriteLine ("Test Name");
 		}
 
-		public void TestClass ()
+		public void TestClass2 ()
+		{
+			Console.WriteLine ("Test Name");
+		}
+
+		public void TestClass3 ()
 		{
 			Console.WriteLine ("Test Name");
 		}
