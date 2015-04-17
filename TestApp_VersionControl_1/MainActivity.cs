@@ -29,6 +29,16 @@ namespace TestApp_VersionControl_1
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 		}
+
+		public void TestClass ()
+		{
+			Console.WriteLine ("Test Name");
+		}
+
+		public void TestClass ()
+		{
+			Console.WriteLine ("Test Name");
+		}
 	}
 }
 
